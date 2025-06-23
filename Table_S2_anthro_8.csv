@@ -1,0 +1,16 @@
+"Supplemental Table 2. Anthropometrics, breastfeeding, and reported diarrhea across the trial1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Week 0 (baseline),,,,,,Week 12,,,,,,,Week 24,,,,,,,Week 36,,,,,,,Week 48,,,,,,
+hsid,LAZ Trajectory,Sex,"Age, months",WLZ,LAZ,Stunted2,Currently Breastfeeding3,Diarrhea in past 2 weeks,"Age, months",WLZ,LAZ,Stunted,Currently Breastfeeding,Diarrhea in past 2 weeks,Change in LAZ over past 12 weeks,"Age, months",WLZ,LAZ,Stunted,Currently Breastfeeding,Diarrhea in past 2 weeks,Change in LAZ over past 12 weeks,"Age, months",WLZ,LAZ,Stunted,Currently Breastfeeding,Diarrhea in past 2 weeks,Change in LAZ over past 12 weeks,"Age, months",WLZ,LAZ,Stunted,Currently Breastfeeding,Diarrhea in past 2 weeks,Change in LAZ over past 12 weeks
+526,Increasing,Male,23.2,0.26,-1.71,No,1,0,26.0,0.55,-1.54,No,0,1,0.17,28.8,0.71,-1.29,No,0,0,0.25,31.5,1.06,-1.27,No,0,0,0.02,34.3,1.35,-1.25,No,0,0,0.02
+549,Decreasing,Female,20.6,1.05,-0.03,No,0,0,23.4,-0.61,-0.26,No,0,1,-0.23,26.1,-1.03,-0.25,No,0,0,0.01,28.9,-1,-0.86,No,0,0,-0.61,31.6,-0.18,-1.06,No,0,0,-0.2
+791,Decreasing,Female,14.5,-0.13,-1.39,No,1,0,17.3,-0.16,-1.84,No,1,0,-0.45,20.0,-0.24,-1.94,No,1,0,-0.1,22.8,-0.43,-2.48,Yes,1,0,-0.54,25.6,-0.82,-2.29,Yes,1,0,0.19
+798,Increasing,Male,14.4,0.83,-1.57,No,1,0,17.2,1.59,-1.33,No,1,0,0.24,20.0,1.29,-1.2,No,1,1,0.13,22.7,1.92,-0.76,No,1,0,0.44,25.5,2.08,-0.56,No,1,0,0.2
+553,Decreasing,Female,20.2,1.11,-0.57,No,1,0,23.0,0.62,-0.86,No,1,0,-0.29,25.8,0.44,-0.74,No,1,0,0.12,28.5,0,-1.1,No,1,0,-0.36,31.3,0.39,-1.38,No,1,0,-0.28
+603,Increasing,Male,15.8,-0.09,-2.97,Yes,1,0,18.6,-0.08,-2.52,Yes,1,0,0.45,21.3,0.1,-2.36,Yes,1,0,0.16,24.1,0.58,-2.03,Yes,1,0,0.33,26.9,-0.02,-1.96,No,1,0,0.07
+699,Decreasing,Male,22.2,-0.07,1.19,No,0,0,24.9,-0.25,0.44,No,0,0,-0.75,27.7,-0.47,0.34,No,0,0,-0.1,30.5,-0.45,0.07,No,0,0,-0.27,33.2,0.17,0.02,No,0,0,-0.05
+742,Increasing,Female,18.3,-0.57,-5.45,Yes,1,0,21.1,-0.95,-5.02,Yes,1,0,0.43,23.8,-0.84,-4.96,Yes,1,0,0.06,26.6,-0.69,-4.24,Yes,1,0,0.72,29.8,-0.55,-4.09,Yes,1,0,0.15
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"1 LAZ, length-for-age z-score; WLZ, weight-for-length z-score",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2 Defined by LAZ < -2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3 Any breastfeeding, not necessarily exclusive breastfeedgin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
